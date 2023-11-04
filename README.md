@@ -1,4 +1,4 @@
 ## Hello GDSC MAKAUT!
 
 1. Sayak Saha
-2. Akash kumar singha
+3. Akash kumar singha
